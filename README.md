@@ -20,7 +20,8 @@ The project covers key NLP tasks such as Named Entity Recognition (NER), Part-of
 
 # **🧩 Key Concepts Covered**
 
-🔹 Named Entity Recognition (NER)
+🔹 **Named Entity Recognition (NER)**
+
 Identifies entities such as Person, Organization, Location, Date
 
 Uses tagging techniques like BIO tagging
@@ -32,7 +33,7 @@ Example:
 Elon Musk - Person
 SpaceX - Organization
 
-🔹 Part-of-Speech (POS) Tagging
+🔹 **Part-of-Speech (POS) Tagging**
 
 Assigns grammatical roles to each word
 
@@ -45,7 +46,7 @@ She - Pronoun
 running - Verb
 fast - Adverb
 
-🔹 Chunking (Phrase Detection)
+🔹 **Chunking (Phrase Detection)**
 
 Groups words into meaningful phrases (Noun Phrase, Verb Phrase)
 
@@ -56,13 +57,13 @@ Example:
 
 # **💻 Implementation**
 
-**🔹 Tools & Libraries**
+**Tools & Libraries**
 
 Python
 spaCy
 Hugging Face Transformers 
 
-#**🤖 Transformer-Based Approach**
+# **🤖 Transformer-Based Approach**
 
 Modern NLP models like BERT perform token classification using contextual embeddings.
 
